@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.sqli.blockchain.ethdroid_sample.io.ethmobile.ethdroidsample.MainActivity">
+    tools:context="io.ethmobile.ethdroidsample.private_chain.PrivateChainActivity">
 
     <Button
         android:id="@+id/sendmoney_button"

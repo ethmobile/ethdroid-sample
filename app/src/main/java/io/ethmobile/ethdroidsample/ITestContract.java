@@ -10,7 +10,7 @@ import io.ethmobile.ethdroid.solidity.types.SUInt;
  * Created by gunicolas on 08/03/17.
  */
 
-interface ITestContract extends ContractType {
+public interface ITestContract extends ContractType {
 
     SolidityEvent<SUInt.SUInt8> simpleEvent();
 
